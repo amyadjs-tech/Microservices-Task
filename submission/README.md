@@ -265,11 +265,12 @@ CMD ["npm", "start"]
 | CMD | Starts the Node.js application |
 
 <img width="1917" height="1021" alt="3" src="https://github.com/user-attachments/assets/bd03bf4a-833d-4b21-b458-1eb557c064ed" />
-
 <img width="1917" height="1026" alt="4" src="https://github.com/user-attachments/assets/8e2f6c94-cfc0-4d2a-83a5-03e02a0f367b" />
-
 <img width="1917" height="1025" alt="5" src="https://github.com/user-attachments/assets/551f726f-08eb-43c5-b7d8-768c6ebb7252" />
-
+<img width="1917" height="352" alt="image" src="https://github.com/user-attachments/assets/6ce6bbe5-d2ff-45d4-be9e-9541dfdc4e56" />
+<img width="1917" height="342" alt="image" src="https://github.com/user-attachments/assets/f0da5a10-d663-4010-baf9-4d3ab8bde989" />
+<img width="1917" height="347" alt="image" src="https://github.com/user-attachments/assets/f80fe2d1-f94e-4d5f-b31d-54950effeb45" />
+<img width="1917" height="342" alt="image" src="https://github.com/user-attachments/assets/32709516-a9e5-46ca-9eb3-f98c1926e1a3" />
 
 ## 8. Step 4 – Configure package.json
 
