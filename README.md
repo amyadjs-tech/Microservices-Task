@@ -20,7 +20,7 @@ This document provides details on testing various services after running the `do
 
 <img width="1917" height="312" alt="image" src="https://github.com/user-attachments/assets/75d476c6-390d-46ab-88d5-43150da1b946" />
 
-<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/974c5576-8063-4b6b-85fc-9e47ee3e99df" />
+<img width="1917" height="171" alt="45" src="https://github.com/user-attachments/assets/b5ff50b6-6fff-4071-a197-6af28103f9b6" />
 
 ### **Product Service**
 - **Base URL:** `http://localhost:3001`
