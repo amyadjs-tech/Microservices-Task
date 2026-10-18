@@ -264,6 +264,13 @@ CMD ["npm", "start"]
 | EXPOSE | Documents the application port |
 | CMD | Starts the Node.js application |
 
+<img width="1917" height="1021" alt="3" src="https://github.com/user-attachments/assets/bd03bf4a-833d-4b21-b458-1eb557c064ed" />
+
+<img width="1917" height="1026" alt="4" src="https://github.com/user-attachments/assets/8e2f6c94-cfc0-4d2a-83a5-03e02a0f367b" />
+
+<img width="1917" height="1025" alt="5" src="https://github.com/user-attachments/assets/551f726f-08eb-43c5-b7d8-768c6ebb7252" />
+
+
 ## 8. Step 4 – Configure package.json
 
 Each service requires a start script to run the application.
