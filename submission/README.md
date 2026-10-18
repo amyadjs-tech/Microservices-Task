@@ -371,6 +371,11 @@ networks:
 
 Note: `depends_on` controls startup order but does not guarantee that an application is ready to accept requests.
 
+<img width="1917" height="62" alt="image" src="https://github.com/user-attachments/assets/ff5f52ce-b7d3-41c3-bb36-f199628e4494" />
+<img width="1917" height="145" alt="image" src="https://github.com/user-attachments/assets/31a1d34d-9a2f-40e6-9821-b84e8d230e97" />
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/d5254582-c66e-47b2-b019-b4215a28a5ea" />
+
+
 ## 10. Step 6 – Validate Docker Compose
 
 Run:
