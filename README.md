@@ -78,6 +78,13 @@ This document provides details on testing various services after running the `do
    ```
    docker-compose up
    ```
+<img width="1917" height="578" alt="32 1" src="https://github.com/user-attachments/assets/0962e71b-09df-4b80-ab83-84156c2ef26b" />
+
+<img width="1917" height="1020" alt="33" src="https://github.com/user-attachments/assets/e4c4798e-52aa-4f17-a9c9-2e6f9826d743" />
+
+<img width="1874" height="861" alt="34 1" src="https://github.com/user-attachments/assets/33b9fe64-f604-4f79-8d0a-142b22218e00" />
+
+   
 2. Once the services are running, use the above endpoints to verify the functionality.
 
 Happy testing!
