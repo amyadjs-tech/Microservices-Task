@@ -749,70 +749,7 @@ Rebuild and restart:
 ```bash
 docker compose up --build -d
 ```
-
-## 18. Step 14 – Prepare ZIP Submission
-
-Create a submission directory containing the required project files.
-
-```bash
-cd ~/Microservices-Task
-
-mkdir -p submission
-
-cp -r Microservices/user-service submission/
-cp -r Microservices/product-service submission/
-cp -r Microservices/order-service submission/
-cp -r Microservices/gateway-service submission/
-
-cp docker-compose.yml README.md submission/
-```
-
-If screenshots have been captured:
-
-```bash
-cp -r screenshots submission/
-```
-
-Remove any copied dependency directories:
-
-```bash
-find submission -type d -name node_modules -prune -exec rm -rf {} +
-```
-
-Because the services are now directly inside `submission/`, change the Docker Compose build contexts in `submission/docker-compose.yml` to:
-
-```yaml
-context: ./user-service
-context: ./product-service
-context: ./order-service
-context: ./gateway-service
-```
-
-Each context belongs under its corresponding service's `build` section.
-
-Validate the submission:
-
-```bash
-cd submission
-docker compose config
-cd ..
-```
-
-Create the ZIP:
-
-```bash
-zip -r Microservices-Task.zip submission
-```
-
-Verify its contents:
-
-```bash
-unzip -l Microservices-Task.zip
-```
-
-The ZIP includes the Dockerfiles, application source code, Compose configuration, README, and any screenshots added.
-
-## 19. Conclusion
+## 18. Conclusion
 
 This project demonstrates:
 
