@@ -676,6 +676,11 @@ nothing to commit, working tree clean
 
 https://github.com/amyadjs-tech/Microservices-Task
 
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/c736e63d-ec37-4e08-a77a-0bcf8d64660b" />
+<img width="1917" height="742" alt="image" src="https://github.com/user-attachments/assets/e4d366b3-6c3d-4ae0-acd0-6a5286879529" />
+<img width="1917" height="427" alt="image" src="https://github.com/user-attachments/assets/3c89c65b-27e7-4d08-a201-db05e30f77cd" />
+
+
 ## 16. Step 12 – Stop and Remove Containers
 
 Stop the services:
