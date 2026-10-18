@@ -125,12 +125,6 @@ Forking creates a copy of the original repository under your GitHub account.
 
 Open the Ubuntu WSL terminal.
 
-Navigate to the home directory:
-
-```bash
-cd ~
-```
-
 Clone the repository:
 
 ```bash
@@ -142,6 +136,12 @@ Navigate to the project directory:
 ```bash
 cd Microservices-Task
 ```
+
+<img width="1917" height="1022" alt="1" src="https://github.com/user-attachments/assets/236e5d91-7388-4493-9d89-d9d0baac62d7" />
+
+<img width="1917" height="1020" alt="2" src="https://github.com/user-attachments/assets/06c6d149-4b03-42bc-8be7-20a9d9007c14" />
+
+<img width="1917" height="995" alt="3 1" src="https://github.com/user-attachments/assets/f096807d-246c-4854-8dfc-6d89d0e29d2f" />
 
 Verify the remote repository:
 
@@ -155,6 +155,8 @@ Expected:
 origin https://github.com/amyadjs-tech/Microservices-Task.git (fetch)
 origin https://github.com/amyadjs-tech/Microservices-Task.git (push)
 ```
+
+<img width="1917" height="100" alt="image" src="https://github.com/user-attachments/assets/a95a69f2-8f7e-4122-ba19-87326801f224" />
 
 ## 7. Step 3 – Create Dockerfiles
 
