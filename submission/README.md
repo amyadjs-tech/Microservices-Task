@@ -309,6 +309,12 @@ Each package.json should contain:
 }
 ```
 
+The below screenshot shows that earlier there was no start script to run the application.
+
+<img width="1917" height="876" alt="image" src="https://github.com/user-attachments/assets/1d99569a-3346-44a6-bd0b-7a0b372ca46e" />
+
+The below 2 screenshot shows that there is start script to run the application after changing the package.json file in each services.
+
 <img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/6c04af37-3a67-44a4-9552-428a375b5649" />
 <img width="1917" height="990" alt="image" src="https://github.com/user-attachments/assets/438f2617-45c9-45d9-8d58-a0a6a8c6ad34" />
 
