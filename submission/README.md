@@ -119,6 +119,8 @@ Ensure Docker Desktop is running.
 
 Forking creates a copy of the original repository under your GitHub account.
 
+<img width="1917" height="302" alt="image" src="https://github.com/user-attachments/assets/65bea7f2-55a7-41db-9794-45d8c073d863" />
+
 ## 6. Step 2 – Clone the Repository
 
 Open the Ubuntu WSL terminal.
