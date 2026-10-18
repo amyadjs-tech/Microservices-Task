@@ -18,6 +18,9 @@ This document provides details on testing various services after running the `do
 
 ---
 
+<img width="1917" height="312" alt="image" src="https://github.com/user-attachments/assets/75d476c6-390d-46ab-88d5-43150da1b946" />
+
+
 ### **Product Service**
 - **Base URL:** `http://localhost:3001`
 - **Endpoints:**
