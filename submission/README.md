@@ -676,61 +676,7 @@ nothing to commit, working tree clean
 
 https://github.com/amyadjs-tech/Microservices-Task
 
-## 16. Step 12 – Screenshots
-
-Capture the following screenshots for assignment documentation.
-
-### Screenshot 1 – Docker Containers Running
-
-Run:
-
-```bash
-docker ps
-```
-
-Save the screenshot as:
-
-`screenshots/docker-containers.png`
-
-### Screenshot 2 – Docker Compose Status
-
-Run:
-
-```bash
-docker compose ps
-```
-
-Save as:
-
-`screenshots/docker-compose-status.png`
-
-### Screenshot 3 – API Testing
-
-Run the six curl commands from the testing section.
-
-Save as:
-
-`screenshots/api-testing.png`
-
-### Screenshot 4 – Docker Desktop
-
-Open Docker Desktop and capture all four running microservices.
-
-Save as:
-
-`screenshots/docker-desktop.png`
-
-Once the images are added to the repository, they can be displayed here:
-
-![Docker containers](screenshots/docker-containers.png)
-
-![Docker Compose status](screenshots/docker-compose-status.png)
-
-![API testing](screenshots/api-testing.png)
-
-![Docker Desktop](screenshots/docker-desktop.png)
-
-## 17. Step 13 – Stop and Remove Containers
+## 16. Step 12 – Stop and Remove Containers
 
 Stop the services:
 
@@ -749,7 +695,7 @@ Rebuild and restart:
 ```bash
 docker compose up --build -d
 ```
-## 18. Conclusion
+## 17. Conclusion
 
 This project demonstrates:
 
