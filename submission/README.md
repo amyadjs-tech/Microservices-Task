@@ -421,6 +421,9 @@ microservices-task-product-service-1
 microservices-task-order-service-1
 microservices-task-gateway-service-1
 ```
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/5f1f5010-abef-4a1e-87f3-7cdf8fe36a8e" />
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/d63b074e-2b5f-4066-b935-013fd3f37ad8" />
+<img width="1917" height="582" alt="image" src="https://github.com/user-attachments/assets/e8cca365-915e-45fb-95e1-a545a49c9afc" />
 
 ## 12. Step 8 – Test the Microservices
 
