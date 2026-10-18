@@ -103,7 +103,11 @@ node --version
 npm --version
 ```
 
+<img width="1917" height="222" alt="image" src="https://github.com/user-attachments/assets/f6e72693-ebc8-48fd-a2ea-6fe8e5f2b4d0" />
+
 Ensure Docker Desktop is running.
+
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/56441249-86e7-4b53-a8e1-8142e05407d6" />
 
 ## 5. Step 1 – Fork the GitHub Repository
 
