@@ -48,6 +48,10 @@ This document provides details on testing various services after running the `do
 
 ---
 
+<img width="1917" height="290" alt="48" src="https://github.com/user-attachments/assets/06ba27cf-f959-4f2a-b94e-1caf767fe4f3" />
+
+<img width="1917" height="141" alt="image" src="https://github.com/user-attachments/assets/5ded1808-708e-4fce-9bae-cc73f81666c9" />
+
 ### **Gateway Service**
 - **Base URL:** `http://localhost:3003/api`
 - **Endpoints:**
