@@ -70,6 +70,9 @@ This document provides details on testing various services after running the `do
 
 ---
 
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/11b84dd2-098c-445b-8151-8c3026fa2e75" />
+
+
 ## Instructions
 1. Start all services using the `docker-compose` file:
    ```
