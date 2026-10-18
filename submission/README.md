@@ -385,19 +385,7 @@ Note: `depends_on` controls startup order but does not guarantee that an applica
 <img width="1917" height="145" alt="image" src="https://github.com/user-attachments/assets/31a1d34d-9a2f-40e6-9821-b84e8d230e97" />
 <img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/d5254582-c66e-47b2-b019-b4215a28a5ea" />
 
-
-## 10. Step 6 – Validate Docker Compose
-
-Run:
-
-```bash
-cd ~/Microservices-Task
-docker compose config
-```
-
-This validates the Compose configuration.
-
-## 11. Step 7 – Build and Start the Containers
+## 10. Step 6 – Build and Start the Containers
 
 Run:
 
@@ -435,7 +423,7 @@ microservices-task-gateway-service-1
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/d63b074e-2b5f-4066-b935-013fd3f37ad8" />
 <img width="1917" height="582" alt="image" src="https://github.com/user-attachments/assets/e8cca365-915e-45fb-95e1-a545a49c9afc" />
 
-## 12. Step 8 – Test the Microservices
+## 11. Step 7 – Test the Microservices
 
 After starting the containers, verify each service.
 
@@ -512,7 +500,7 @@ The step 12. Step 8 -> provides details on testing various services after runnin
 
 A successful test should return an HTTP 200 response with the expected JSON data.
 
-## 13. Step 9 – Docker Networking
+## 12. Step 8 – Docker Networking
 
 All four microservices communicate using a shared Docker bridge network.
 
@@ -540,7 +528,7 @@ View Docker networks:
 docker network ls
 ```
 
-## 14. Step 10 – Troubleshooting
+## 13. Step 9 – Troubleshooting
 
 ### Issue 1: Missing npm start script
 
@@ -650,7 +638,7 @@ Enter the GitHub username and use the token as the password.
 
 Never share the token or commit it to the repository.
 
-## 15. Step 11 – Push the Project to GitHub
+## 14. Step 10 – Push the Project to GitHub
 
 Navigate to the project directory:
 
@@ -712,7 +700,7 @@ https://github.com/amyadjs-tech/Microservices-Task
 <img width="1917" height="427" alt="image" src="https://github.com/user-attachments/assets/3c89c65b-27e7-4d08-a201-db05e30f77cd" />
 
 
-## 16. Step 12 – Stop and Remove Containers
+## 15. Step 11 – Stop and Remove Containers
 
 Stop the services:
 
@@ -731,7 +719,7 @@ Rebuild and restart:
 ```bash
 docker compose up --build -d
 ```
-## 17. Conclusion
+## 16. Conclusion
 
 This project demonstrates:
 
